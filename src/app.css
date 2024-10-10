@@ -117,5 +117,12 @@ body {
     p.thick {
     font-weight: bold; 
     }
-    
+
+/* For mobile phones: */
+
+[class*="col-"] {
+  width: 100%;
+}
+
+
     
